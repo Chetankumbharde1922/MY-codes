@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//basic solution of this solution is to find the XOR of the code
+
 int main()
 {
     unsigned int arr[100001],T,i,n,o;
